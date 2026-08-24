@@ -1,0 +1,16 @@
+# env
+.env
+.env.local
+.env.*.local
+
+# tooling
+node_modules/
+.vercel/
+.firebase/
+*.log
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

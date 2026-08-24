@@ -1,0 +1,16 @@
+{
+	"name": "ledger-trading-journal",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Ledger — a private trading journal: dashboard performance, daily reflections and a journal for every trade.",
+	"scripts": {
+		"dev": "vercel dev",
+		"start": "npx serve .",
+		"deploy": "vercel --prod"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"keywords": ["trading", "journal", "crypto", "webapp", "vercel"],
+	"license": "MIT"
+}
